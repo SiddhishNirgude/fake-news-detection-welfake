@@ -6,6 +6,11 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32.2-green.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+## Presentation
+
+Download the final presentation slides:
+[Download Presentation (PPTX)](https://github.com/SiddhishNirgude/fake-news-detection-welfake/raw/main/report/presentation.pptx)
+
 ## Overview
 
 This project builds a lightweight 3-branch hybrid NLP classification
