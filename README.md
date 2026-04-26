@@ -180,18 +180,7 @@ significant at alpha=0.05 (p < 0.0001).
 MS Data Science — Michigan State University
 CMSE 928 Applied Machine Learning — April 2026
 
-Step 3: Commit and push:
-git add README.md
-git commit -m "Add full project README with results and setup instructions"
-git push origin main
 
-Step 4: Confirm push was successful.
-Print: "README updated and pushed to GitHub."
-```
-
----
-
-Come back with confirmation then refresh GitHub to check.
 
 ## Large Files Not Included in Repository
 
