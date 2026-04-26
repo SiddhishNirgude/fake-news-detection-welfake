@@ -1,0 +1,5 @@
+model_a,model_b,n00,n01,n10,n11,chi2,p_value,significant
+LinearSVC,BiLSTM,91,111,170,9027,1350.4414,0.0,True
+BiLSTM,Full Hybrid,79,67,123,9130,1878.9678,0.0,True
+LinearSVC,No-Linguistic Hybrid,81,47,180,9091,1736.9371,0.0,True
+Full Hybrid,No-Linguistic Hybrid,79,49,67,9204,3031.9967,0.0,True

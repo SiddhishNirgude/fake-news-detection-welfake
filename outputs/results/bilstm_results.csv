@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1_Macro,ROC_AUC
+BiLSTM,0.9785,0.9775,0.9793,0.9783,0.998

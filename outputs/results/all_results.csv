@@ -1,0 +1,7 @@
+Model,Accuracy,F1_Macro,ROC_AUC
+Random Forest,0.9436,0.9429,0.9879
+XGBoost,0.9631,0.9627,0.9938
+Logistic Regression,0.9706,0.9703,0.9964
+LinearSVC,0.9722,0.972,0.9967
+BiLSTM,0.9785,0.9783,0.998
+Hybrid,0.9845,0.9843,0.9991

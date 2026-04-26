@@ -1,0 +1,56 @@
+# ── Large Data Files ──────────────────────────────
+data/raw/
+data/processed/train_clean.csv
+data/processed/test_clean.csv
+data/processed/val_clean.csv
+data/processed/X_train_linguistic.npy
+data/processed/X_test_linguistic.npy
+data/processed/X_val_linguistic.npy
+
+# ── Large Model Files ─────────────────────────────
+models/ablation_no_linguistic.pt
+models/ablation_no_lstm.pt
+models/ablation_no_tfidf.pt
+models/bilstm_model.pt
+models/glove_embedding_matrix.npy
+models/hybrid_model.pt
+models/model_rf.joblib
+models/hybrid_tfidf_vectorizer.joblib
+models/tfidf_vectorizer.joblib
+
+# ── Report Build Files ────────────────────────────
+report/node_modules/
+report/package-lock.json
+report/package.json
+report/make_slides.js
+report/slide_02_preview.jpg
+report/presentation.pptx.png
+report/presentation_backup.pptx
+
+# ── Research PDFs in root ─────────────────────────
+*.pdf
+
+# ── Shell scripts ─────────────────────────────────
+upload_to_hpcc.sh
+
+# ── Python cache ──────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# ── Environment ───────────────────────────────────
+.env
+venv/
+env/
+
+# ── OS files ──────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.DS_Store
+
+# ── Claude settings ───────────────────────────────
+.claude/

@@ -1,0 +1,5 @@
+Variant,F1_Macro,Accuracy,ROC_AUC,Delta_vs_Full
+No Linguistic (TF-IDF + LSTM),0.9862,0.9864,0.9991,0.0019
+No LSTM (TF-IDF + Linguistic),0.9678,0.9681,0.9959,-0.0165
+No TF-IDF (LSTM + Linguistic),0.9841,0.9843,0.9989,-0.0002
+Full Hybrid (all 3 branches),0.9843,0.9845,0.9991,0.0
